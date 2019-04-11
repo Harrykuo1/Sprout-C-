@@ -1,3 +1,4 @@
+// https://neoj.sprout.tw/problem/19/
 #include<stdio.h>
 int main(){
 	int a,n,times,up;
