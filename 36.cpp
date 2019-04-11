@@ -1,3 +1,4 @@
+// //https://neoj.sprout.tw/problem/36/
 #include<stdio.h>
 int main(){
 	int n,ary[100001],upper=-1,a;
